@@ -4,4 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+# Chansong Jo
+## in masters program in English department of Sogang University (psycholiguistics)
+
+## familiar with following tools and language
+### python
+### R
+### Adobe Primier pro and Photoshop
+### tensorflow
